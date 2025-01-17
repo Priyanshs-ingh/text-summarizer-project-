@@ -1,0 +1,13 @@
+artifacts_root: artifacts
+data_ingestion:
+   root_dir: artifacts/data_ingestion
+   source_URL: https://github.com/entbappy/Branching-tutorial/raw/master/summarizer-data.zip
+   local_data_file: artifacts/data/data_ingestion/data.zip
+   unzip_dir: artifacts/data_ingestion
+   # New section for additional configuration file details
+configuration_file:
+  path:C:\text-summarizer-project-\config\configuration_file.yaml # Specify the path to the configuration file
+  
+  required_keys: [key1, key2, key3]            # List of required keys in the configuration file
+   # Path to a backup of the configuration file
+

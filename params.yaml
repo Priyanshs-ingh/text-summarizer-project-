@@ -1,0 +1,4 @@
+root_key:
+  child_key1: value1
+  child_key2:
+    sub_child_key1: value2
