@@ -33,10 +33,7 @@ This project offers two main ways to summarize text:
 *   Pymupdf
 *   Streamlit
 
-## Installation
 
-1.  Clone the repository: `git clone [your repository link]`
-2.  Install the required packages: `pip install -r requirements.txt`
 
 ## Running the Streamlit App
 
